@@ -5,7 +5,7 @@ New Era University — Quezon City_ **
 
 My core strengths lie in solving intricate technical problems and architecting sophisticated, elegant solutions. I leverage my passion for coding and proficiency in database management, a journey that began with my BS in Information Technology.
 
-## 
+<hr style="border:10px solid gray">
 
 
 
