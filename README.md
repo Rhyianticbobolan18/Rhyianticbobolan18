@@ -1,4 +1,4 @@
-## **Hi there, I'm Rhyian Joshua Ticbobolan 👋 **
+## Hi there, I'm Rhyian Joshua Ticbobolan 👋
 
 🎓 2nd Year BS Information Technology Student
 New Era University — Quezon City
