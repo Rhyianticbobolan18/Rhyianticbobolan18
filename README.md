@@ -12,6 +12,11 @@ My core strengths lie in solving intricate technical problems and architecting s
    * New Era Univeristy
    * 2024-Present
 
+## **_Certifications_**
+* **BS Information Technology**
+   * New Era Univeristy
+   * 2024-Present
+
 
 
 
