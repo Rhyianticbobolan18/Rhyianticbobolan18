@@ -21,7 +21,7 @@ My core strengths lie in solving intricate technical problems and architecting s
 * **Tools:** Lucidchart, Visual Studio Code, Eclipse, Intelij, HTML
 
 ## ***📧 Let's Connect***
-* **Email:**ticbobolanrhyianjoshua18@gmail.com 
+* **Email:** ticbobolanrhyianjoshua18@gmail.com 
 * **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rhyian-joshua-ticbobolan-703406398/)
 
 
