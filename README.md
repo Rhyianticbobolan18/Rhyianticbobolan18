@@ -16,11 +16,13 @@ My core strengths lie in solving intricate technical problems and architecting s
 * ***Oracle Cloud Data Management Foundations Associate (Certified)*** [View Certificate](URL)
 
 ## ***🛠️ Skills & Attributes***
-* **Programming:* Java, Php
+* **Programming:** Java, Php
 * **Databases:** IBM DB2 Cloud
 * **Tools:** Lucidchart, Visual Studio Code, Eclipse, Intelij, HTML
 
-
+## ***📧 Let's Connect***
+* **Email:**ticbobolanrhyianjoshua18@gmail.com 
+* **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rhyian-joshua-ticbobolan-703406398/)
 
 
 
