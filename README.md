@@ -8,6 +8,8 @@ My core strengths lie in solving intricate technical problems and architecting s
 <hr style="border:10px solid gray">
 
 ## **_Education_**
+* **BS Information Technology**
+* 
 
 
 
