@@ -7,13 +7,20 @@ My core strengths lie in solving intricate technical problems and architecting s
 
 <hr style="border:10px solid gray">
 
-## **_Education_**
+## **_🏛️ Education_**
 * **BS Information Technology**
    * New Era Univeristy
    * 2024-Present
 
-## **_Certifications_**
+## **_📜 Certifications_**
 * ***Oracle Cloud Data Management Foundations Associate (Certified)*** [View Certificate](URL)
+
+## ***🛠️ Skills & Attributes***
+* **Programming:* Java, Php
+* **Databases:** IBM DB2 Cloud
+* **Tools:** Lucidchart, Visual Studio Code, Eclipse, Intelij, HTML
+
+
 
 
 
