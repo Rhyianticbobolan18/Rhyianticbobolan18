@@ -14,6 +14,7 @@ My core strengths lie in solving intricate technical problems and architecting s
 
 ## 📜 **_Certifications_**
 * ***SQL and Relational Databases 101:*** [View Certificate.](https://courses.cognitiveclass.ai/certificates/701fd54e2c8f4318a34ecf37f284cbb9)
+* ***OCI Foundations Associate (2025):*** [View Certificate.](https://courses.cognitiveclass.ai/certificates/701fd54e2c8f4318a34ecf37f284cbb9)
 
 ## 🛠️ **_Skills & Attributes_**
 * **Programming:** Java, Php
